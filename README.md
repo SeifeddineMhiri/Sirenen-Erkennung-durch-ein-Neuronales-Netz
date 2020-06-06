@@ -1,1 +1,1 @@
-# -Sirenen-Erkennung-durch-ein-Neuronales-Netz
+# Sirenen-Erkennung-durch-ein-Neuronales-Netz
