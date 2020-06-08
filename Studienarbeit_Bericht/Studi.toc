@@ -1,0 +1,26 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{Abbildungsverzeichnis}{4}
+\contentsline {section}{Abk\IeC {\"u}rzungsverzeichnis}{5}
+\contentsline {section}{\numberline {1}Einf\IeC {\"u}hreung}{6}
+\contentsline {subsection}{\numberline {1.1}Ziel der Arbeit}{6}
+\contentsline {subsection}{\numberline {1.2}Struktur der Arbeit}{6}
+\contentsline {section}{\numberline {2}Grundlagen}{7}
+\contentsline {subsection}{\numberline {2.1}Machine Learning}{7}
+\contentsline {subsection}{\numberline {2.2}Deep Learning}{7}
+\contentsline {subsection}{\numberline {2.3}Convolutional Neural Networks (CNN)}{8}
+\contentsline {subsection}{\numberline {2.4}Aufbau digitaler Wavelet-Audiosignale}{10}
+\contentsline {section}{\numberline {3}Technische Analyse}{12}
+\contentsline {subsection}{\numberline {3.1}Python}{12}
+\contentsline {subsection}{\numberline {3.2}Jupyter-notebook}{12}
+\contentsline {subsection}{\numberline {3.3}Tensorflow und Keras}{13}
+\contentsline {subsection}{\numberline {3.4}Datensatz}{13}
+\contentsline {section}{\numberline {4}Implementierung}{14}
+\contentsline {subsection}{\numberline {4.1}Step 1: Data Exploration and Visualisation}{14}
+\contentsline {subsection}{\numberline {4.2}Step 2: Data Preprocessing and Data Splitting}{15}
+\contentsline {subsection}{\numberline {4.3}Step 3: Model Training and Evaluation}{15}
+\contentsline {subsubsection}{\numberline {4.3.1}Model vorbeireiten und aufsetzen}{15}
+\contentsline {subsubsection}{\numberline {4.3.2}Model Trainieren}{16}
+\contentsline {subsection}{\numberline {4.4}Step 4: Testing}{17}
+\contentsline {subsection}{\numberline {4.5}Eigne Sirenen Testdaten testen}{17}
+\contentsline {section}{\numberline {5}Zusammenfassung und Ausblick}{18}
+\contentsline {section}{Literaturverzeichnis}{18}
