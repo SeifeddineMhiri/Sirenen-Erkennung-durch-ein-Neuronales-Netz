@@ -6,3 +6,4 @@ In diesem Tutorial zeigen wir, wie ein in Keras erstelltes einfaches neuronales 
 
 ## Datensatz
 Der link zu den Datensatz ist auf Kaggle unter der URL:
+(wird später auf Kaggle hochgeladen wegen Internet Probleme)
